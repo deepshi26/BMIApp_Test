@@ -13,6 +13,7 @@
 		3F45CFB023A1BC6D00EB48C1 /* BMIApp_Test.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F45CFAE23A1BC6D00EB48C1 /* BMIApp_Test.xcdatamodeld */; };
 		3F45CFB223A1BC6E00EB48C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F45CFB123A1BC6E00EB48C1 /* Assets.xcassets */; };
 		3F45CFB523A1BC6E00EB48C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F45CFB323A1BC6E00EB48C1 /* LaunchScreen.storyboard */; };
+		3F45CFBD23A1C2D400EB48C1 /* AddDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F45CFBC23A1C2D400EB48C1 /* AddDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F45CFB123A1BC6E00EB48C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F45CFB423A1BC6E00EB48C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F45CFB623A1BC6E00EB48C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F45CFBC23A1C2D400EB48C1 /* AddDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3F45CFA723A1BC6D00EB48C1 /* AppDelegate.swift */,
 				3F45CFA923A1BC6D00EB48C1 /* ViewController.swift */,
 				3F45CFAB23A1BC6D00EB48C1 /* Main.storyboard */,
+				3F45CFBC23A1C2D400EB48C1 /* AddDetailsViewController.swift */,
 				3F45CFB123A1BC6E00EB48C1 /* Assets.xcassets */,
 				3F45CFB323A1BC6E00EB48C1 /* LaunchScreen.storyboard */,
 				3F45CFB623A1BC6E00EB48C1 /* Info.plist */,
@@ -141,6 +144,7 @@
 				3F45CFAA23A1BC6D00EB48C1 /* ViewController.swift in Sources */,
 				3F45CFA823A1BC6D00EB48C1 /* AppDelegate.swift in Sources */,
 				3F45CFB023A1BC6D00EB48C1 /* BMIApp_Test.xcdatamodeld in Sources */,
+				3F45CFBD23A1C2D400EB48C1 /* AddDetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

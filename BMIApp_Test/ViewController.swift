@@ -1,4 +1,7 @@
-//
+//Name : Deepshi
+//Student No: 301089444
+
+
 //  ViewController.swift
 //  BMIApp_Test
 //
